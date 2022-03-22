@@ -1,6 +1,6 @@
-# D3b Bixu Repository Template
+# KF Bixu Repository Template
 
-Use this template to bootstrap a new D3b bixu repository 
+Use this template to bootstrap a new KF bixu repository 
 
 ### Badges
 
